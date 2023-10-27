@@ -7,7 +7,7 @@
 
 ### 1. [Introduction to Project Management](https://www.coursera.org/learn/introduction-to-project-management?specialization=ibm-it-project-manager)
 
-####    **Certificate:**
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/4PRH5V5A24G9_
 #
 
 ### 2. [Project Management Foundations, Initiation, and Planning](https://www.coursera.org/learn/project-management-foundations-initiation-and-planning?specialization=ibm-it-project-manager)
