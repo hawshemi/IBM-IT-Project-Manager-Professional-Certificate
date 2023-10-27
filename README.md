@@ -12,7 +12,7 @@
 
 ### 2. [Project Management Foundations, Initiation, and Planning](https://www.coursera.org/learn/project-management-foundations-initiation-and-planning?specialization=ibm-it-project-manager)
 
-####    **Certificate:**
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/5H4NTAH36B2R_
 #
 
 ### 3. [Project Lifecycle, Information Sharing, and Risk Management](https://www.coursera.org/learn/project-lifecycle-information-sharing-risk-management?specialization=ibm-it-project-manager)
