@@ -17,7 +17,7 @@
 
 ### 3. [Project Lifecycle, Information Sharing, and Risk Management](https://www.coursera.org/learn/project-lifecycle-information-sharing-risk-management?specialization=ibm-it-project-manager)
 
-####    **Certificate:**
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/H7WW9FGBHKJP_
 #
 
 ### 4. [Project Management Communication, Stakeholders & Leadership](https://www.coursera.org/learn/project-management-communication-stakeholders-and-leadership?specialization=ibm-it-project-manager)
