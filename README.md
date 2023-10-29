@@ -22,7 +22,7 @@
 
 ### 4. [Project Management Communication, Stakeholders & Leadership](https://www.coursera.org/learn/project-management-communication-stakeholders-and-leadership?specialization=ibm-it-project-manager)
 
-####    **Certificate:**
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/H7Y8CT8HESYZ_
 #
 
 ### 5. [Information Technology (IT) Fundamentals for Everyone](https://www.coursera.org/learn/information-technology-it-fundamentals-for-everyone?specialization=ibm-it-project-manager)
