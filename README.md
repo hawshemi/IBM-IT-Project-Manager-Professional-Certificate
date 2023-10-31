@@ -27,7 +27,7 @@
 
 ### 5. [Information Technology (IT) Fundamentals for Everyone](https://www.coursera.org/learn/information-technology-it-fundamentals-for-everyone?specialization=ibm-it-project-manager)
 
-####    **Certificate:**
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/7FVPBRFXSNCX_
 #
 
 ### 6. [Introduction to Software Engineering](https://www.coursera.org/learn/introduction-to-software-engineering?specialization=ibm-it-project-manager)
