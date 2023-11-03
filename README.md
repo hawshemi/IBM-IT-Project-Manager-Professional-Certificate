@@ -37,7 +37,7 @@
 
 ### 7. [Introduction to Scrum Master Profession](https://www.coursera.org/learn/introduction-to-scrum-master-profession?specialization=ibm-it-project-manager)
 
-####    **Certificate:**
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/KYUW9UT89QEC_
 #
 
 ### 8. [Introduction to Agile Development and Scrum](https://www.coursera.org/learn/agile-development-and-scrum?specialization=ibm-it-project-manager)
