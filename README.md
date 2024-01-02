@@ -1,7 +1,7 @@
 # IBM IT Project Manager Professional Certificate
 
 ## UPDATE: Today, IBM and Coursera excluded this course from the Coursera Plus program. I was learning this course because it WAS on Coursera Plus but right before finishing the entire course, they excluded this course from Coursera Plus.
-More here: https://www.reddit.com/r/coursera/comments/17myg70/ibm_coursera_plus_madness/
+### More here: https://www.reddit.com/r/coursera/comments/17myg70/ibm_coursera_plus_madness/
 
 
 ## [IBM IT Project Manager Professional Certificate](https://www.coursera.org/professional-certificates/ibm-it-project-manager?)
